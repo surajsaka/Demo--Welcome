@@ -5,7 +5,7 @@ Created on Sun Aug  1 21:18:34 2021
 
 @author: saka
 """
-
+print("This is a arithmetic_arranger Project created by SURAJ SAKA")
 def arithmetic_arranger(problems, solve = False):
   
   firstnumber=""
